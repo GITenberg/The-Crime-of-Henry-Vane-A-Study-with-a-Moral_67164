@@ -1,11 +1,16 @@
 _repo: The-Crime-of-Henry-Vane-A-Study-with-a-Moral_67164
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67164-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Dale, J. S. of
     gutenberg_agent_id: '54140'
     url: http://www.gutenberg.org/2009/agents/54140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67164#The-Crime-of-Henry-Vane-A-Study-with-a-Moral
 gutenberg_issued: '2022-01-14'
 identifiers:
   gutenberg: '67164'
